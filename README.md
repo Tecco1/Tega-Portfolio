@@ -1,10 +1,6 @@
-WITH user_ride_status
-AS (SELECT user_id,
-Max(CASE
-WHEN dropoff_ts IS NOT NULL THEN 1
-ELSE 0
-END) AS ride_completed
-FROM ride_requests
-GROUP BY user_id)
-SELECT Count(*) AS total_users_ride_requested
-FROM user_ride_status;
+# Tega's Portfolio
+# [Project 1: Metrocar Funnel Analysis](https://github.com/Tecco1/Funnel-Analysis)
+This is a project I did for my data analysis certificate, where I analyed a ride sharing app to identify areas of improvement.
+* The data is taken from masterschool database
+* SQL was used to build the funnel analysis for the ride sharing app
+* Tableau was used to visualize the different funnel stages
