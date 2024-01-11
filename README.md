@@ -5,6 +5,8 @@ This is a project I did for my data analysis certificate, where I analyed a ride
 * SQL was used to build the funnel analysis for the ride sharing app
 * Tableau was used to visualize the different funnel stages
 
+## Funnel Visualization for Metrocar ![](percent of top vs percent of previous.png)
+
 # [Project 2: Globox A/B experiment](https://github.com/Tecco1/A-B-Testing)
 This is a project I did for my data analysis certificate, where I conducted an A/B esxperiment on a mobile website to determine if a banner should be launched.
 * The data was extracted from masterschool database
