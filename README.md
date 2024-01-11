@@ -13,3 +13,4 @@ This is a project I did for my data analysis certificate, where I conducted an A
 * SQL was used to extract and analyse the performance for both groups
 * Excel was used to determine the P value and confidence intervals for conversion rate and average amount spent
 * Tableau was used to visualize data set extracted from SQL
+## Distribution of amount spent per user ![Distribution of amount spent](https://github.com/Tecco1/Funnel-Analysis/assets/80634813/7b7588bf-7011-48cd-b432-e226aeeb96cc)
